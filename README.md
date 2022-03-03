@@ -5,3 +5,6 @@ Voici un pack contenant les superettes, les amunation et des pharmacie, RageUI e
 
 ### Vidéo
 https://youtu.be/whDHVl6aW48
+
+### Discord
+https://discord.com/invite/X9ReemrhKh
